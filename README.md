@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@mux/mux-node"><img src="https://img.shields.io/npm/v/@mux/mux-node" title="NPM" /></a>
   <a href="https://github.com/muxinc/mux-node-sdk/actions/workflows/ci.yml"><img src="https://github.com/muxinc/mux-node-sdk/actions/workflows/ci.yml/badge.svg" title="CI" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Faminamos%2Fmux-node-sdk?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Faminamos%2Fmux-node-sdk.svg?type=shield"/></a>
 </p>
 <p align="center">
   <a href="https://www.npmjs.com/package/@mux/mux-node">NPM</a> |
@@ -263,3 +264,7 @@ Find a bug or want to add a useful feature? That'd be amazing! If you'd like to 
 5. Open the pull request! :tada:
 
 Running integration tests will require a Mux account with valid seed data for `/video` and `/data` endpoints. If you are contributing and you don't have this, please add unit test coverage and someone from the Mux will help get integration tests added if necessary.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faminamos%2Fmux-node-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faminamos%2Fmux-node-sdk?ref=badge_large)
